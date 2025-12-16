@@ -1,4 +1,7 @@
 # karaoke-form
+# カラオケ予約フォーム（LINE + Power Automate）
+このリポジトリは、LINE LIFFとPower Automateを使ったカラオケ予約フォームのサンプルです。
+
 <!doctype html>
 <html lang="ja">
 <head>
